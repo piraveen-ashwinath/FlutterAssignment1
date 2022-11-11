@@ -1,0 +1,104 @@
+{
+	"folders": [
+		{
+			"name": "Programs",
+			"path": "../../Java/Programs"
+		},
+		{
+			"name": "Activity - CSS Selectors",
+			"path": "../../Web Programming (SECV1223-03)/Class activities/Activity - CSS Selectors"
+		},
+		{
+			"name": "20202021 02 Lab Exercise 2 (CSS)",
+			"path": "../../Web Programming (SECV1223-03)/Lab/20202021 02 Lab Exercise 2 (CSS)"
+		},
+		{
+			"name": "Skeleton File - Grid",
+			"path": "../../Web Programming (SECV1223-03)/Class activities/Skeleton File - Grid/Skeleton File - Grid"
+		},
+		{
+			"name": "Exercise - Grid",
+			"path": "../../Web Programming (SECV1223-03)/Lab/Exercise - Grid"
+		},
+		{
+			"name": "Activity - JavaScript Introduction",
+			"path": "../../Web Programming (SECV1223-03)/Class activities/Activity - JavaScript Introduction"
+		},
+		{
+			"name": "JavaScript",
+			"path": "../../JavaScript"
+		},
+		{
+			"name": "Class activities",
+			"path": "../../Web Programming (SECV1223-03)/Class activities"
+		},
+		{
+			"name": "Lab",
+			"path": "../../Web Programming (SECV1223-03)/Lab"
+		},
+		{
+			"name": "Assignments",
+			"path": "../../Web Programming (SECV1223-03)/Assignments"
+		},
+		{
+			"name": "GPA calculator",
+			"path": "../../Web Programming (SECV1223-03)/GPA calculator"
+		},
+		{
+			"name": "Activity-PHP",
+			"path": "../../../../../xampp/htdocs/Activity-PHP"
+		},
+		{
+			"path": "../../../Downloads/Lab-5/LAB-5"
+		},
+		{
+			"path": "../../../Downloads/UPIPE/UPIPE"
+		},
+		{
+			"path": "../../../Downloads/Q1Final"
+		},
+		{
+			"path": "../../../Downloads/q__2"
+		},
+		{
+			"path": "../../../Downloads/Q4Final"
+		},
+		{
+			"path": "../../../Downloads/q3"
+		},
+		{
+			"path": "../../../Downloads/TASK1_MUHAMMADRAFIQ(A19EC0106)/TASK1_MUHAMMADRAFIQ(A19EC0106)/Task1"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/WebAppProject"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/SB"
+		},
+		{
+			"path": "../../../../../xampp/htdocs/Computer Security Assignment 1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"askForPassword": true,
+				"driver": "MySQL",
+				"name": "st4k.my",
+				"username": "root",
+				"database": "st4k",
+				"connectionTimeout": 60
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "SB"
+	}
+}
